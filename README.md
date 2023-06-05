@@ -37,6 +37,9 @@ For ReLU activation function:
 ![image](https://github.com/akshat275/PRICE-FORECASTING-CRYPTOCURRENCY/assets/37811907/07d97d74-1c90-49fc-b82c-8c04bf1c8888)
 ![image](https://github.com/akshat275/PRICE-FORECASTING-CRYPTOCURRENCY/assets/37811907/9999327d-3dc2-4089-aa97-799629001459)
 
+# Conclusion
+Different models (LSTM, BiLSTM, GRU) were tested for predicting Bitcoin prices. Performance measures showed overall good accuracy. BiLSTM was a better indicator of trends, important for trading. It performed well in forecasting, capturing the trend accurately. However, for overall prediction, GRU performed the best according to the dataset, with the closest match to actual Bitcoin values
+
 
  
 
